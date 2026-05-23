@@ -98,4 +98,4 @@ MIT
 
 ## Author
 
-[Aditya Mehra](https://github.com/AddyM) — Staff SRE, IEEE Senior Member, PyTorch ecosystem contributor.
+[Aditya Mehra](https://github.com/AddyM) — Staff Engineer, IEEE Senior Member, PyTorch ecosystem contributor.
